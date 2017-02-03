@@ -1,0 +1,7 @@
+{
+  "name": "nowplaying",
+  "version": "1.0.0",
+  "description": "an app that shows what im listening too",
+  "main": "index.js",
+  "license": "MIT"
+}
